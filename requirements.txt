@@ -1,0 +1,21 @@
+# Core ML libraries
+numpy
+pandas
+scikit-learn
+
+# Model I/O
+
+# Optional ML algorithms
+xgboost
+lightgbm
+
+# Streamlit for the UI
+streamlit
+
+# Visualization (if used)
+matplotlib
+seaborn
+
+# For handling imbalanced data (if used)
+imblearn
+matplotlib
